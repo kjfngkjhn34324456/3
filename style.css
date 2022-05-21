@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.g {
+    display: flex;
+}
+
+.h {
+    display: flex;
+}
+
+header {
+    background-image: linear-gradient(to bottom, green, greenyellow);
+    box-shadow: ;
+}
+
+header:hover {
+    transform:scale(2);
+    transition: 2s ease-in;
+}
+
+h1:hover {
+    transition: 2s ease-in;
+    background-color: beige;
+}
+
+iframe {
+    border: 3px solid greenyellow;
+}
+
+html {
+    background-color: lightblue;
+}
